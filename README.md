@@ -1,1 +1,2 @@
-# smart-city-architecture-platform
+# Disaster Response Coordination Platform
+
